@@ -45,7 +45,7 @@ the instance's residency class.
 
 | Field | Detail |
 |---|---|
-| **Client Context** | *"Link Context Studio workspaces to enrich blueprints with client-specific knowledge. **You can select multiple contexts.**"* Search and tick. The lab uses **`Nestle-Finance`** — IBV material on the process and domain, including benchmark data |
+| **Client Context** | *"Link Context Studio workspaces to enrich blueprints with client-specific knowledge. **You can select multiple contexts.**"* Search and tick. The lab uses **`[CLIENT]-Finance`** — IBV material on the process and domain, including benchmark data |
 | **Model** | System default shown as **`aws · claude-opus-4-6-v1`**. Provider and Model are separate dropdowns; the lab picks `azure` / `5-1`, and the slide text offers "azure GPT 5 model or Opus 4.6 from GCP" |
 | **Blueprints** | Multi-select of the four domain folders to include in the project |
 | **Auto-Generate Artifacts** | Agent Evaluation Plan (.md + .csv) · PowerPoint · BPMN 2.0 XML · HTML Report · Mermaid Diagram · **JSON-LD Ontologies** · Risk Register (.md + .html) |
@@ -54,8 +54,8 @@ the instance's residency class.
 **Tick JSON-LD Ontologies** if a TO BE context will be built from this project. Without it
 there is no schema to import into Context Studio, and the loop does not close.
 
-The `Nestle-Finance` context holds four files, all `ready`:
-`nestle-technical-context-v2.md` · `Finance_Procurement_CHF_additional quartiles.xlsx` ·
+The `[CLIENT]-Finance` context holds four files, all `ready`:
+`[CLIENT]-technical-context-v2.md` · `Finance_Procurement_CHF_additional quartiles.xlsx` ·
 `2025 Finance organization benchmark report – Research findings.pptx` ·
 `2025 Finance organization benchmark report – KPIs by industry.pptx`.
 
@@ -93,7 +93,7 @@ Architecture Configuration · Audit Trace Architecture Specification.
 > Guide lists seven canonical sections and **omits Business Ontology and the Autonomy Zone
 > Map**, while including *Skills Library* — which the product renders in **Phase 3**, not
 > Phase 1. The product ships **eight** Phase 1 sections, and two independent exports (this
-> lab and the Nestlé CA10 blueprint) agree on all eight and their order.
+> lab and the [CLIENT] CA10 blueprint) agree on all eight and their order.
 >
 > Treat the User Guide's seven as an incomplete summary, not a contract. Do not tell a
 > client the blueprint has seven sections.

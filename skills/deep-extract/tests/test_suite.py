@@ -17,9 +17,9 @@ import tempfile
 
 BOB = r"H:\My Drive\AA\bob-skills"
 ROOTS = [BOB, r"C:\Users\GRACEPAN\.claude\skills", r"H:\My Drive\AA\.bob\skills"]
-MATERIALS = r"C:\Users\GRACEPAN\Box\#Grace\ClientZero\NAR_Nestle\Materials"
-HEALTHY = os.path.join(MATERIALS, "OS_NBS Manila_O2C_CA_Credit Management.docx")
-DAMAGED = os.path.join(MATERIALS, "OG_NBS Manila_O2C_CA_Returns and Refusals 1.docx")
+MATERIALS = r"C:\Users\GRACEPAN\Box\#Grace\[INTERNAL]\[CLIENT]\Materials"
+HEALTHY = os.path.join(MATERIALS, "OS_[CLIENT SITE]_O2C_CA_Credit Management.docx")
+DAMAGED = os.path.join(MATERIALS, "OG_[CLIENT SITE]_O2C_CA_Returns and Refusals 1.docx")
 EXTRACT = r"C:\Users\GRACEPAN\.claude\skills\extract\scripts\extract.py"
 
 ENV = dict(os.environ, PYTHONIOENCODING="utf-8", PYTHONUTF8="1")

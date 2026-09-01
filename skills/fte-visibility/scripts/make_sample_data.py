@@ -1,4 +1,4 @@
-"""Seed Heineken-shaped sample data for the FTE model: ~2,400 employees across 24
+"""Seed [CLIENT]-shaped sample data for the FTE model: ~2,400 employees across 24
 cost centers, with allocation gaps engineered so unallocated FTE lands near 340."""
 
 import random

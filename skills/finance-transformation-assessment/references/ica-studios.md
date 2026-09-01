@@ -194,7 +194,7 @@ with inferred numbers flagged and confidence noted — from what is deliberately
 ## 5. The EAEF blueprint — eight sections, not seven
 
 The User Guide names seven. The product renders eight. Settled 2026-08-15 against the guided lab's
-rendered navigation, which matches the Nestlé CA10 export section for section.
+rendered navigation, which matches the [CLIENT] CA10 export section for section.
 
 | # | Section | In the User Guide's seven? |
 |---|---|---|

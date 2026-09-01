@@ -13,7 +13,7 @@ Executed from `H:\My Drive\AA\ICA-Studios-Consolidated\PROMPT-F-backfill-skill.m
 | 1 | `…\official-sources\Process-Studio-ARCHITECTURE.pptx` |
 | 2 | `…\official-sources\Client-Context-…-Master-Playbook.docx` v3.0 |
 | 2 | `…\official-sources\Process Studio guided lab.zip` — 26 slides |
-| 3 | Nestlé CA10 EAEF export (Box) — evidence of what the product does, including its defects |
+| 3 | [CLIENT] CA10 EAEF export (Box) — evidence of what the product does, including its defects |
 
 ## Corrections
 
@@ -90,7 +90,7 @@ file itself.
 **The seven-section disagreement is now settled, and neither earlier reading was right.**
 
 The lab's rendered blueprint navigation pane lists **eight** Phase 1 sections, and it
-matches the Nestlé CA10 export section for section. The User Guide's list of seven **omits
+matches the [CLIENT] CA10 export section for section. The User Guide's list of seven **omits
 Business Ontology and the Autonomy Zone Map**, and includes *Skills Library*, which the
 product renders in **Phase 3** (§3.3).
 
@@ -106,7 +106,7 @@ the evidence resolves it.
 | **Access** | team captains sign in at a **standalone AWS-hosted URL** (`https://ic-<id>.ecs.us-east-1.on.aws/`), not `servicesessentials` and not a regional `*.ica.ibm.com`. Relevant to establishing residency class |
 | **Steps** | the official deck numbers `00 · 01 · 02 · 03 · 04 · 06` — **05 is skipped**. Six steps, not seven |
 | **Project form** | contexts are **multi-select**; system default model shown as `aws · claude-opus-4-6-v1`; the four blueprint domain folders; the seven auto-generate artifact toggles; collaborator Read/Write |
-| **Context detail** | `Nestle-Finance` holds four named files, all `ready` |
+| **Context detail** | `[CLIENT]-Finance` holds four named files, all `ready` |
 | **A real blueprint's tiles** | 12 atomic steps · 50% DET / 50% AI · 10 agents · 10 data products · 14 MCP tools · **6 Green / 5 Amber / 1 Red** — counts sum, RED populated |
 | **Agent register semantics** | the product's own explanation of each column, plus what RED is for: a Payment Security Sentinel Agent that stops processing on credential exposure, token misuse, unauthorized requests or vendor banking data leakage |
 | **Business case has two gates** | a mandatory **KPI review gate** and a **baseline data collection mode** choice — and option 4, *"Use EAEF defaults for everything"*, is the mechanism by which an unsourced figure enters a business case. Flagged in place |

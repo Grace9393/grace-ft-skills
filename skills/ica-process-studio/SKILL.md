@@ -138,7 +138,7 @@ blueprint before quoting it.
 ### The User Guide's seven is an incomplete summary — the product ships eight
 
 Settled 2026-08-15 against the official guided lab's rendered blueprint navigation, which
-matches the Nestlé CA10 export section for section. **Phase 1 as the product renders it:**
+matches the [CLIENT] CA10 export section for section. **Phase 1 as the product renders it:**
 
 | # | Section | In the User Guide's seven? |
 |---|---|---|

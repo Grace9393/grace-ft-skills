@@ -3,7 +3,7 @@
 `SKILL.md` describes the seven canonical sections. Those are **Phase 1**. A real export
 runs to six phases and ~24 numbered subsections.
 
-Structure below is taken from a real Process Studio export — Nestlé Canada CA10 Returns
+Structure below is taken from a real Process Studio export — [CLIENT] Canada CA10 Returns
 and Refusals, 14 atomic steps, 9 agents, 12 MCP tools — cross-read against the Process
 Studio User Guide v1.5. Where the two differ, the User Guide wins and the difference is
 noted.

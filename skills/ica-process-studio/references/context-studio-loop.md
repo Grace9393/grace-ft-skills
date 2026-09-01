@@ -5,7 +5,7 @@ and 4 — enough to run the loop end to end. For Context Studio as a product sur
 right, use the `ica-context-studio` skill.
 
 Sources: `process_studio_context_studio.html` and `India_Hands_On_Lab_ContextStudio.pptx` in
-`C:\Users\GRACEPAN\Box\#Grace\ClientZero\Studio`.
+`C:\Users\GRACEPAN\Box\#Grace\[INTERNAL]\Studio`.
 
 ---
 
